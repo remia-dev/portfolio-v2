@@ -13,7 +13,7 @@ const Navbar = () => {
         <div id="dropdown" className="hidden md:block">
           <ul className="items-center w-screen md:w-auto md:flex">
             <li className="p-4 text-black border-b md:border-0">
-              <a href="https://github.com/remia-dev">github</a>
+              <a href="https://github.com/remia-dev" target="_blank">github</a>
             </li>
             <li className="p-4 text-black border-b md:border-0">
               <a href="#">résumé</a>
