@@ -11,7 +11,7 @@ const Footer = () => {
       </div>
       <div className="hidden md:block">
         <ul className="items-center w-screen md:w-auto md:flex font-montserrat">
-            <li><a href="../assets/CV - Eledia.pdf" target="_blank">résumé</a></li>
+            <li><a href="https://drive.google.com/file/d/1Y7JQU-LjymH6wNF68z6YEBTvBq6Ftwwk/view?usp=share_link" target="_blank">résumé</a></li>
             <div className="px-2">|</div>
             <li><a href="https://www.linkedin.com/in/jeremiah-eledia-1765791a9/" target="_blank">linkedIn</a> </li>
             <div className="px-2">|</div>
