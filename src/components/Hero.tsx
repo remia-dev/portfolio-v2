@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
 
       <div className="font-montserrat text-4xl py-2">Software Developer</div>
-      <div className="flex gap-2">
+      <div className="flex gap-2 flex-wrap">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="30"
