@@ -16,7 +16,7 @@ const Navbar = () => {
               <a href="https://github.com/remia-dev" target="_blank">github</a>
             </li>
             <li className="p-4 text-black border-b md:border-0">
-              <a href="#">résumé</a>
+              <a href="../assets/CV - Eledia.pdf" target="_blank">résumé</a>
             </li>
           </ul>
         </div>
