@@ -8,7 +8,7 @@ function App() {
     <div className="mx-auto w-[60%]">
       <Navbar />
       <Hero />
-      <Projects />
+         <Projects />
       <Footer />
     </div>
   );
